@@ -1,3 +1,4 @@
- Arquivo para subir nos gestes das aulas de git 
+ Arquivo para subir nos testes das aulas de git 
 
+ modificando para fazer testes de pull
  
